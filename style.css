@@ -1,0 +1,66 @@
+body {
+background-color: #808080;
+font-family: sans-serif black;
+margin: auto
+}
+table{
+border: 2px solid #FFE4E1;
+border-radius: 7px;
+width: 800px;
+text-align: left;
+color: black;
+margin: 30px;
+padding: 0px;
+border-spacing: 0;
+}
+td,
+th {
+border-bottom: 1px solid #FFE4E1;
+height: 30px;
+width: auto;
+}
+.left-column{
+width: 500px;
+}
+.right-column{
+width: 500px;
+}
+.div-search{
+position: relative;
+width: 500px;
+height: auto;
+padding-bottom: 10px;
+}
+.search-input{
+position: relative;
+border-radius: 8px;
+border: 0px;
+padding-left: 25px;
+width: 250px;
+height: 30px;
+margin-bottom: 0px;
+background-color: #FFF5EE;
+color: white;
+outline: none;
+margin-left: 50%;
+}
+.search-icon{
+position: absolute;
+width: 15px;
+height: 15px;
+top: 10px;
+left: 260px;
+}
+.elipsis{
+margin-left: 465px;
+}
+.archive{
+position: relative;
+width: 15px;
+height: 15px;
+}
+.triangle{
+position: absolute;
+width: 15px;
+height: 15px;
+}
